@@ -1,6 +1,6 @@
 # Configure Linux server project #
 This project demonstrate the ability to configure a Linux server.
-List of requirements can be found [here](https://review.udacity.com/#!/rubrics/7/view). This project is running on [18.236.62.212](18.236.62.212).
+List of requirements can be found [here](https://review.udacity.com/#!/rubrics/7/view). This project is running on [34.214.183.242](34.214.183.242).
 ## Tool used ##
 1. [Amazon light snail](https://aws.amazon.com/lightsail/)
 2. ssh
